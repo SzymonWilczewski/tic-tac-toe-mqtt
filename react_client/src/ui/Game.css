@@ -1,0 +1,15 @@
+.game {
+  width: 70%;
+}
+.chat {
+  display: flex;
+  flex-direction: column-reverse;
+  width: 30%;
+  height: 100%;
+}
+ul {
+  padding-left: 0;
+  align-items: stretch;
+  color: white;
+  font-family: Verdana;
+}
